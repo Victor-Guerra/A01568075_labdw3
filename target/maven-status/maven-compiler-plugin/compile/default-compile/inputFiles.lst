@@ -1,0 +1,11 @@
+/home/victorg/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/lab3web/src/main/java/mx/tec/web/lab/manager/ProductManager.java
+/home/victorg/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/lab3web/src/main/java/mx/tec/web/lab/Lab3DraftApplication.java
+/home/victorg/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/lab3web/src/main/java/mx/tec/web/lab/vo/ProductVO.java
+/home/victorg/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/lab3web/src/main/java/mx/tec/web/lab/dao/ProductDAO.java
+/home/victorg/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/lab3web/src/main/java/mx/tec/web/lab/controller/ProductController.java
+/home/victorg/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/lab3web/src/main/java/mx/tec/web/lab/entity/Product.java
+/home/victorg/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/lab3web/src/main/java/mx/tec/web/lab/mapper/ProductMapper.java
+/home/victorg/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/lab3web/src/main/java/mx/tec/web/lab/dao/ProductDAOJPAImpl.java
+/home/victorg/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/lab3web/src/main/java/mx/tec/web/lab/vo/SkuVO.java
+/home/victorg/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/lab3web/src/main/java/mx/tec/web/lab/entity/Sku.java
+/home/victorg/Documents/workspace-spring-tool-suite-4-4.9.0.RELEASE/lab3web/src/main/java/mx/tec/web/lab/repository/ProductRepository.java
